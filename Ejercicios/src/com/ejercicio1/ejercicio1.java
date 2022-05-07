@@ -3,7 +3,7 @@ package com.ejercicio1;
 import java.util.*;
 
 /*
- Alice y Bob crearon cada uno un problema para HackerRank. Un revisor califica los dos desafíos, otorgando puntos en una escala del 1 al 100 para tres categorías: claridad del problema , originalidad y dificultad .
+ Alice Bob crearon cada uno un problema para HackerRank. Un revisor califica los dos desafíos, otorgando puntos en una escala del 1 al 100 para tres categorías: claridad del problema , originalidad y dificultad .
 
 La calificación del desafío de Alice es el triplete a = (a[0], a[1], a[2]) , y la calificación del desafío de Bob es el triplete b = (b[0], b[1], b [2]) .
 
